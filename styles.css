@@ -85,7 +85,7 @@ body {
 }
 
 .wrapper__hero {
-  background-image: url(/images/desktop/image-hero.jpg);
+  background-image: url(./images/desktop/image-hero.jpg);
   background-position: center;
   background-repeat: no-repeat;
   height: 650px;
@@ -283,29 +283,29 @@ body {
 }
 
 #list__item-1 {
-  background-image: url(/images/desktop/image-deep-earth.jpg);
+  background-image: url(./images/desktop/image-deep-earth.jpg);
 }
 
 #list__item-2 {
-  background-image: url(/images/desktop/image-night-arcade.jpg);
+  background-image: url(./images/desktop/image-night-arcade.jpg);
 }
 #list__item-3 {
-  background-image: url(/images/desktop/image-soccer-team.jpg);
+  background-image: url(./images/desktop/image-soccer-team.jpg);
 }
 #list__item-4 {
-  background-image: url(/images/desktop/image-grid.jpg);
+  background-image: url(./images/desktop/image-grid.jpg);
 }
 #list__item-5 {
-  background-image: url(/images/desktop/image-from-above.jpg);
+  background-image: url(./images/desktop/image-from-above.jpg);
 }
 #list__item-6 {
-  background-image: url(/images/desktop/image-pocket-borealis.jpg);
+  background-image: url(./images/desktop/image-pocket-borealis.jpg);
 }
 #list__item-7 {
-  background-image: url(/images/desktop/image-curiosity.jpg);
+  background-image: url(./images/desktop/image-curiosity.jpg);
 }
 #list__item-8 {
-  background-image: url(/images/desktop/image-fisheye.jpg);
+  background-image: url(./images/desktop/image-fisheye.jpg);
 }
 
 .wrapper__desktop-footer {
